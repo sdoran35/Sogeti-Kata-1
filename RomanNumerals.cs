@@ -2,11 +2,16 @@
 
 namespace RomanNumeralsCodingKata
 {
-    class Program
+    class RomanNumerals
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+        }
+
+        public void ConvertArabicToRoman(int input)
+        {
+            
         }
     }
 }
